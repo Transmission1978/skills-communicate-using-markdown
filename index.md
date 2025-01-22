@@ -11,3 +11,7 @@
 Note: **_"I have shown examples of what a hashtag will do if put in front of a word to make it a header. This is also bold and italic"_**
 
 ![Image of penguin](https://bellard.org/bpg/2.png)
+
+```Javascript
+var MyFirstCode = "Hello World"
+```
