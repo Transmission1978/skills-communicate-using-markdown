@@ -15,3 +15,8 @@ Note: **_"I have shown examples of what a hashtag will do if put in front of a w
 ```Javascript
 var MyFirstCode = "Hello World"
 ```
+
+#### Task List
+- [x] Create A Task List
+- [x] Add a second task
+- [ ] Continue with the next step
